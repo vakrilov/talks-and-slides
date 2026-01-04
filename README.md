@@ -2,6 +2,7 @@
 
 | Date | Event | Topic | Links |
 | :---: | :---- | :------- | :---: |
+| 26 Nov 2025 | [Trading 212 Tech Nights Vol. 3](https://www.linkedin.com/events/trading212technight-vol-37393626010103119872/) | Measuring and Improving ReactNative Performance | [slides](https://docs.google.com/presentation/d/1prsswFtm7Ae76Hd5tNdX7wsEw9sT-T7xxNExDS2a6mA/edit?slide=id.p#slide=id.p) |
 | 29 Apr 2025 | [Trading 212 Tech Nights Vol. 1](https://www.linkedin.com/posts/trading-212-careers_t212technights-trading212-engineeringculture-activity-7326608315646394368-4ZkO/) | Lessons Learned from Maintaining ReacNative/TypeScript Monorepo | [slides](https://docs.google.com/presentation/d/1MnnyVMdQGAUITD8K-C4dATWUyvCL_pylBbAf7HmIbIo/edit?usp=sharing) |
 | 16 Sep 2020 | [DevBG](https://dev.bg/%D1%81%D1%8A%D0%B1%D0%B8%D1%82%D0%B8%D0%B5/webinar-javascript-webassembly-what-how-when/?instance_id=1097) | WebAssembly! What? How? When? | [slides](https://docs.google.com/presentation/d/1TXMb3d9YmbBBKGgqQCHm357Rya6lPd5OUb9-7t3qSwk/edit?usp=sharing) / [diagrams](./assets/WebAssemblyDiagrams.excalidraw) | 
 | 26 Jun 2019 | Athlon Gigs | Intro to NativeScript (with [Emo Tabakov](https://twitter.com/emiltabakov)) | [slides](https://docs.google.com/presentation/d/1ee7YMHs26pX6DMXr6b3NKoOJl2uUCkYJdQAZnaZCeZc/edit?usp=sharing) | 
